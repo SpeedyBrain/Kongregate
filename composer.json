@@ -1,0 +1,16 @@
+{
+    "name": "speedybrain/kongregate",
+    "version": "dev-master",
+    "license": "GPL-3.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/SpeedyBrain/Kongregate"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "SpeedyBrain\\Kongregate" : "src"
+        }
+    }
+}
