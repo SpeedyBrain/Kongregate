@@ -1,5 +1,10 @@
 {
     "name": "speedybrain/kongregate",
+    "description": "A simple helper to communicate with the Kongregate Server Side API",
+    "keywords": ["kongregate","helper"],
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
     "version": "dev-master",
     "license": "GPL-3.0",
     "repositories": [
