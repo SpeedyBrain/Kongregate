@@ -30,4 +30,4 @@ if($response->success())
 
 ### License
 
-Kongregate is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+This package is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
