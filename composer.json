@@ -13,8 +13,8 @@
         }
     ],
     "autoload": {
-        "psr-0" : {
-            "SpeedyBrain\\Kongregate" : "src"
+        "psr-4" : {
+            "SpeedyBrain\\Kongregate\\" : "src"
         }
     }
 }
